@@ -1,0 +1,9 @@
+portfolio/
+├─ index.html
+└─ images/
+   ├─ hero.png
+   ├─ work-1.png
+   ├─ work-2.png
+   ├─ work-3.png
+   ├─ price-1.png
+   └─ price-2.png
